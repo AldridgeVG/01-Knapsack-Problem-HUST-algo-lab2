@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="887d777e-ebe5-4349-831a-b2ad76c2d5ca" name="Default Changelist" comment="" />
+    <list default="true" id="887d777e-ebe5-4349-831a-b2ad76c2d5ca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/test1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/~WRL1477.tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/程序流程图.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/01KnapsackProblem/_01KnapsackKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/01KnapsackProblem/_01KnapsackKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/01Knapsack.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/01Knapsack.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +28,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1TVyZIRMeuSr4bALNAT2YwphocE" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="coverage" />
   </component>
   <component name="RunDashboard">
@@ -73,10 +85,15 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

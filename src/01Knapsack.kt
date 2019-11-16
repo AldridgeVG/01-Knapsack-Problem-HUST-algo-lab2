@@ -9,7 +9,7 @@ fun max(a: Int, b: Int): Int {
 fun knapSack(W: Int, weight: Array<String>, value: Array<String>, n: Int): Int {
     var i: Int = 0
     var w: Int
-    val K = Array(n + 1) { IntArray(W + 1) }
+    val K = Array(n + 1) { IntArray(W + 1) { 0 } }
 
     // Build table K[][] in bottom up manner
     while (i <= n) {
